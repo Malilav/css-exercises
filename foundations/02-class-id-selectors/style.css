@@ -1,0 +1,22 @@
+/* style.css */
+
+.class-a,
+.class-b {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#id001 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class-b {
+    font-size: 24px;
+}
+
+#id002 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
